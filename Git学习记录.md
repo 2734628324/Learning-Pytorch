@@ -81,7 +81,7 @@
 * **首次推送时：** 可能需要输入您的 GitHub 用户名和密码（或个人访问令牌 PAT）。
 * **操作后：** 您的 GitHub 远程仓库就会更新，显示您在本地所做的最新修改。
 
-
+#### 7. 推送到远程： git pull origin main
 * git pull origin main
 * origin：指代您的远程仓库（GitHub 上的那个）。
 main：指代您要拉取的分支（通常是 main，也可能是 master，取决于您的仓库设置）。
